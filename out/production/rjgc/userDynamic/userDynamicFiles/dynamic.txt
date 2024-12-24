@@ -1,0 +1,6 @@
+UserDynamic{username='admin', content='第一条动态', createTime=Mon Dec 23 23:41:45 CST 2024}
+UserDynamic{username='admin', content='第三条也是admin', createTime=Mon Dec 23 23:42:51 CST 2024}
+UserDynamic{username='xiaocui', content='xiaocui的第一条动态', createTime=Mon Dec 23 23:43:44 CST 2024}
+UserDynamic{username='admin', content='开炮', createTime=Tue Dec 24 00:04:59 CST 2024}
+UserDynamic{username='admin', content='再一次发布', createTime=Tue Dec 24 00:05:07 CST 2024}
+UserDynamic{username='xiaocui', content='我是小崔', createTime=Tue Dec 24 09:29:05 CST 2024}

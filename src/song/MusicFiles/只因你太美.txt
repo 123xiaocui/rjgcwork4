@@ -1,0 +1,3 @@
+name:只因你太美
+artist:蔡徐坤
+filePath:D:\idea progect\rjgc\src\song\MusicFiles\只因你太美.mp3
